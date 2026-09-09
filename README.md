@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Admar 👋</h1> <p align="center"> <i>Desenvolvedor Backend Jr. | Java • Spring Boot • Go</i> </p>
- Sobre mim
- Formado em Engenharia de Software
- Trabalho com Java, Spring Boot, Go, Docker e AWS
- Me pergunte sobre desenvolvimento backend, arquitetura de sistemas ou eletrônica
+ Sobre mim:
+  - Engenheiro de Software 
+  - Trabalho com Java, Spring Boot, Go, Docker e AWS
+  - Me pergunte sobre desenvolvimento backend, arquitetura de sistemas ou eletrônica
  
 
 🛠️ Tecnologias
